@@ -1,3 +1,8 @@
+#This script is for the analysis of amino-acid level trends after analysis of map.
+
+
+
+
 running_avg <- data.frame(matrix(ncol = 2))
 colnames(running_avg) <- c("pos", "score")
 
